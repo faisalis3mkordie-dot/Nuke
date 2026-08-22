@@ -4,14 +4,14 @@ const path = require('path');
 require('dotenv').config();
 
 let config = {
-    serverName: "Enzo",
-    channelName: "enzo",
-    channelCount: 30,
-    roleName: "Enzo",
+    serverName: "اه اه نيك اه",
+    channelName: "Group 1923",
+    channelCount: 50,
+    roleName: نيك",
     iconPath: "./icon.png",
-    spamMessage: "@everyone Enzo is here!",
-    spamCount: 5,
-    triggerWord: "enzostart"
+    spamMessage: "@everyone اعمامك هنا يا قحبه انت وياه https://discord.gg/6j5PVZqgBy",
+    spamCount: 50,
+    triggerWord: "شغل يا ريس"
 };
 
 if (fs.existsSync('./config.json')) {
