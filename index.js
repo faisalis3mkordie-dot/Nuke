@@ -1,4 +1,4 @@
-Const { Client, GatewayIntentBits, PermissionFlagsBits, ChannelType } = require('discord.js');
+const { Client, GatewayIntentBits, PermissionFlagsBits, ChannelType } = require('discord.js');
 const fs = require('fs');
 const path = require('path');
 require('dotenv').config();
