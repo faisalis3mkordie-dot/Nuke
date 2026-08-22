@@ -7,7 +7,7 @@ let config = {
     serverName: "اه اه نيك اه",
     channelName: "Group 1923",
     channelCount: 50,
-    roleName: نيك",
+    roleName: "نيك",
     iconPath: "./icon.png",
     spamMessage: "@everyone اعمامك هنا يا قحبه انت وياه https://discord.gg/6j5PVZqgBy",
     spamCount: 50,
